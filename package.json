@@ -1,0 +1,11 @@
+{
+  "name": "propine",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "yargs": "^17.6.1"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
