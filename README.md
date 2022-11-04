@@ -1,5 +1,7 @@
 ### Prerequisite: Node.js environment
 
+### Download [CSV file](https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip) then decompression and copy in folder /propine
+
 ### Install lib
 * `npm i`
 
